@@ -1,1 +1,1 @@
-# GoProject
+# GoProject 2.0
